@@ -1,5 +1,5 @@
 
 # Joshua
-"HEllo"
-~~hi~~
-#### MALACHI
+"Hello"
+ ~~hi~~
+ #### MALACHI
