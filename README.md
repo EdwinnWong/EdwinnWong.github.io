@@ -7,7 +7,9 @@
     <body>
 </body>
 ###### Edwinn
-  
+
+    ![cat](https://i.pinimg.com/474x/65/11/b7/6511b73fd51f054d5daa2720dbaf38a8--ugly-dogs-pet-pictures.jpg)
+    
   # Joshua
   
   "Hello"
@@ -16,7 +18,7 @@
   
   #### MALACHI
   
-  ![josh](https://m.media-amazon.com/images/M/MV5BMTgwNTY2OTI3MF5BMl5BanBnXkFtZTcwNDc1MTg4Nw@@._V1_SX300_.jpg)
+
   
   **josh**
   
