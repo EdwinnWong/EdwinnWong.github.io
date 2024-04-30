@@ -4,17 +4,16 @@
   
   ### CHECKLIST
 
-- [x]github account
+- [x]Github account
 
-- [x]
+- [x]Repository 
 
-  "Hello"
-
-~~MALACHI~~
+- [x]Image
   
-**josh**
-  
-*josh*
+- [x]Link to webpage
+
+
+
 
 [Max](https://edwinnwong.github.io/Max/)
   
