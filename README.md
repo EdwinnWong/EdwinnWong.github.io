@@ -4,13 +4,13 @@
   
   ### CHECKLIST
 
-- [x]Github account
+- [x] Github account
 
-- [x]Repository 
+- [x] Repository 
 
-- [x]Image
+- [x] Image
   
-- [x]Link to webpage
+- [x] Link to webpage
 
 
 
