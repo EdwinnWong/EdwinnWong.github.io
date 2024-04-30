@@ -1,7 +1,9 @@
 <html>
   
+<head></head>
 
-  
+  <body>
+    
 # Edwinn
 
 
@@ -20,6 +22,8 @@ CHECKLIST
   *josh*
 
   (Max)[https://edwinnwong.github.io/Max/]
+  
+</body>
 
 </html>
 
