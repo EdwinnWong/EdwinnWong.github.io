@@ -1,8 +1,8 @@
 <html>
   
-<head></head>
+  <head></head>
 
-  <body>
+<body>
     
 # Edwinn
 
@@ -11,7 +11,9 @@
   
 CHECKLIST
 
-- [x]Easy
+- [x]github account
+- [x]
+- 
   
   "Hello"
 
