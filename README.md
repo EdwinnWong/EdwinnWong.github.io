@@ -16,5 +16,5 @@
   
 *josh*
 
-[Max][https://edwinnwong.github.io/Max/]
+[Max](https://edwinnwong.github.io/Max/)
   
