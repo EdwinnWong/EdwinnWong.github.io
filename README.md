@@ -14,7 +14,6 @@
 
 - [x] Add color, font and centre
 
-# I LOVE 
-# [CATS](https://edwinnwong.github.io/Max/)!!
+# I LOVE [CATS](https://edwinnwong.github.io/Max/)!!
 
   
