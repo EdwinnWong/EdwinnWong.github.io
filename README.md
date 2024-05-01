@@ -12,6 +12,7 @@
   
 - [x] Link to webpage
 
+- [x] Add color, font and centre
 
 
 
