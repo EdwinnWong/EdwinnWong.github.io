@@ -18,9 +18,9 @@
 
 ##### These are my cats
 
-[Max](https://edwinnwong.github.io/Max/)
+### [Max](https://edwinnwong.github.io/Max/)
 
-[Edhwardo]
+### [Edhwardo]( https://edwinnwong.github.io/Edhwardo/)
 
 
   
