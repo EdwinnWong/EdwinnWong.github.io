@@ -14,6 +14,13 @@
 
 - [x] Add color, font and centre
 
-### I LOVE [CATS](https://edwinnwong.github.io/Max/)!!
+### I LOVE CATS
+
+##### These are my cats
+
+[Max](https://edwinnwong.github.io/Max/)
+
+[Edhwardo]
+
 
   
