@@ -16,11 +16,11 @@
 
 ### I LOVE CATS
 
-##### These are my cats
+#### These are my cats
 
-### [Max](https://edwinnwong.github.io/Max/)
+#### [Max](https://edwinnwong.github.io/Max/)
 
-### [Edhwardo]( https://edwinnwong.github.io/Edhwardo/)
+#### [Edhwardo]( https://edwinnwong.github.io/Edhwardo/)
 
 
   
