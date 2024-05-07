@@ -18,7 +18,7 @@
 
 ### I LOVE CATS
 
-#### These are my cats
+#### These are some of my many cats
 
 #### [Max](https://edwinnwong.github.io/Max/)
 
