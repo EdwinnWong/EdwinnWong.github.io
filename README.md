@@ -31,3 +31,5 @@
 #### [Leo](https://edwinnwong.github.io/Leo/)
 
 #### [Malachi](https://edwinnwong.github.io/Malachi/)
+
+#### [Rubric](https://edwinnwong.github.io/Rubric/)
