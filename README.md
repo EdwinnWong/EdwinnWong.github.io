@@ -6,21 +6,9 @@
 
 ## This is Edvin, hes is my favourite cat and he looks a little bit special!
   
-### CHECKLIST
+### I LOVE CATS!
 
-- [x] Github account
-
-- [x] Repository 
-
-- [x] Image
-  
-- [x] Link to webpage
-
-- [x] Add color, font and centre
-
-### I LOVE CATS
-
-#### These are some of my many cats
+#### These are my cats
 
 #### [Max](https://edwinnwong.github.io/Max/)
 
