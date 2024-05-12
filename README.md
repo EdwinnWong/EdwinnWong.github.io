@@ -23,3 +23,7 @@
 #### [Malachi](https://edwinnwong.github.io/Malachi/)
 
 #### [Rubric](https://edwinnwong.github.io/Rubric/)
+
+#### [Finn](https://edwinnwong.github.io/Finn/)
+
+#### [Josh](https://edwinnwong.github.io/Josh/)
