@@ -63,4 +63,12 @@ body {
   background-color: blue;
   color: blue;
 }
+.image-row {
+display: flex;
+justify-content: space-between; /* this will add equal space between each image */
+position: fixed;
+top: 0;  
+left: 0;
+right: 0;
+}
 
