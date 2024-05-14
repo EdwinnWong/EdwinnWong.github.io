@@ -23,6 +23,7 @@ h4 {
 }
 
 p {
+  text-color: linear-gradient(0, #DC143C, #1E90FF);
   color: #F8F8FF;
   text-align: center;
   font-family: "Courier New", Times, serif;
@@ -31,7 +32,7 @@ p {
 
 body {
    text-align: center;
-   background: linear-gradient(0, #DC143C, #1E90FF);
+ 
 }
 
  {
