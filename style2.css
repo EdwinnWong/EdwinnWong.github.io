@@ -34,7 +34,7 @@ body {
   margin: 0;
 }
 
-header {
+.header {
   color: #FF00FF;
   text-align: center;
   font-family: "Garamond", serif;
