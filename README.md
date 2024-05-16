@@ -2,26 +2,26 @@
 
 ![cat](https://i.pinimg.com/474x/65/11/b7/6511b73fd51f054d5daa2720dbaf38a8--ugly-dogs-pet-pictures.jpg)
 
-## This is Edvin, hes is my favourite cat and he looks a little bit special!
+## This is Edwon, hes is my favourite cat and he looks a little bit special!
   
 #### These are my cats
 
-#### [Max](https://edwinnwong.github.io/Max/)
+### [Max](https://edwinnwong.github.io/Max/)
 
-#### [Edhwardo]( https://edwinnwong.github.io/Edhwardo/)
+### [Edhwardo]( https://edwinnwong.github.io/Edhwardo/)
 
-#### [Sherwyn](https://edwinnwong.github.io/Sherwyn/)
+### [Sherwyn](https://edwinnwong.github.io/Sherwyn/)
 
-#### [Adeline]( https://edwinnwong.github.io/Adeline/)
+### [Adeline]( https://edwinnwong.github.io/Adeline/)
 
-#### [Leo](https://edwinnwong.github.io/Leo/)
+### [Leo](https://edwinnwong.github.io/Leo/)
 
-#### [Malachi](https://edwinnwong.github.io/Malachi/)
+### [Malachi](https://edwinnwong.github.io/Malachi/)
 
-#### [Rubric](https://edwinnwong.github.io/Rubric/)
+### [Finn](https://edwinnwong.github.io/Finn/)
 
-#### [Finn](https://edwinnwong.github.io/Finn/)
+### [Josh](https://edwinnwong.github.io/Josh/)
 
-#### [Josh](https://edwinnwong.github.io/Josh/)
+### [Sam](https://edwinnwong.github.io/Sam/)
 
-#### [Sam](https://edwinnwong.github.io/Sam/)
+### [Rubric](https://edwinnwong.github.io/Rubric/)
