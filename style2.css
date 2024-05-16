@@ -6,13 +6,6 @@ h1 {
    <!--text-shadow: 1px 1px 2px black, 0 0 25px #f6511d, 0 0 5px #ffb400; -->
 }
 
-h4 {
-  color: #FF00FF;
-  text-align: center;
-  font-family: "Garamond", serif;
-  font-size: 40px;
-}
-
 p {
   text-color: linear-gradient(0, #DC143C, #1E90FF);
   color: #F8F8FF;
