@@ -29,10 +29,6 @@ body {
   margin: 0;
 }
 
-{
-  box-sizing: border-box;
-}
-
 .header {
   text-align: center;
   font-family: "Garamond", serif;
