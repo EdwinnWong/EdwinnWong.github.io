@@ -1,5 +1,5 @@
 h1 {
-  color: #fe218b;
+  color: white;
   text-align: center;
   font-family: "Garamond", serif;
   font-size: 90px;
@@ -37,7 +37,6 @@ body {
 }
 
 .header {
-  color: white;
   text-align: center;
   font-family: "Garamond", serif;
   font-size: 40px;
